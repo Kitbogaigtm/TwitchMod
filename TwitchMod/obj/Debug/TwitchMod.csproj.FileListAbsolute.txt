@@ -1,0 +1,12 @@
+c:\users\valle\documents\visual studio 2015\Projects\TwitchMod\TwitchMod\bin\Debug\TwitchMod.exe.config
+c:\users\valle\documents\visual studio 2015\Projects\TwitchMod\TwitchMod\bin\Debug\TwitchMod.exe
+c:\users\valle\documents\visual studio 2015\Projects\TwitchMod\TwitchMod\bin\Debug\TwitchMod.pdb
+c:\users\valle\documents\visual studio 2015\Projects\TwitchMod\TwitchMod\obj\Debug\TwitchMod.csprojResolveAssemblyReference.cache
+c:\users\valle\documents\visual studio 2015\Projects\TwitchMod\TwitchMod\obj\Debug\TwitchMod.exe
+c:\users\valle\documents\visual studio 2015\Projects\TwitchMod\TwitchMod\obj\Debug\TwitchMod.pdb
+C:\Users\Valle\Dropbox\C#\TwitchMod\TwitchMod\bin\Debug\TwitchMod.exe.config
+C:\Users\Valle\Dropbox\C#\TwitchMod\TwitchMod\obj\Debug\TwitchMod.exe
+C:\Users\Valle\Dropbox\C#\TwitchMod\TwitchMod\obj\Debug\TwitchMod.pdb
+C:\Users\Valle\Dropbox\C#\TwitchMod\TwitchMod\bin\Debug\TwitchMod.exe
+C:\Users\Valle\Dropbox\C#\TwitchMod\TwitchMod\bin\Debug\TwitchMod.pdb
+C:\Users\Valle\Dropbox\C#\TwitchMod\TwitchMod\obj\Debug\TwitchMod.csprojResolveAssemblyReference.cache
